@@ -6,22 +6,22 @@ I am Thomas Devos my year of birth is 1981. I am father of two, girl born 2011, 
 I work as a repair technician for the biggest telecom provider in my country. You could say that euhm,  I'm the cable guy  :)
 
 In this project i am going to attempt to automate some aspects of my reef aquarium:
-automatic top-of
-temperature monitoring and control
-ph monitoring and control
-salinity monitoring and control
+automatic top-of,
+temperature monitoring and control,
+ph monitoring and control,
+salinity monitoring and control,
 powering the equipment like pumps,lighting and other devices on a schedule or in function of sensor readings
 
 I would like to include things like:
-Touchscreen for control
-graphical user interface
-graphing and logging sensor readings
+Touchscreen for control,
+graphical user interface,
+graphing and logging sensor readings,
 power bar with integrated easy connection points for all the sensors
 
 I would like to achieve these things:
-keep it safe (Volt x H2O :):):))
-learn cool stuff
-do it economically
+keep it safe (Volt x H2O :):):)),
+learn cool stuff,
+do it economically,
 
 
 Lets get started!
