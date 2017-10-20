@@ -13,7 +13,7 @@ salinity monitoring and control
 powering the equipment like pumps,lighting and other devices on a schedule or in function of sensor readings
 
 I would like to include things like:
-touchscreen for control
+Touchscreen for control
 graphical user interface
 graphing and logging sensor readings
 power bar with integrated easy connection points for all the sensors
