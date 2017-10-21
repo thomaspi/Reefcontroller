@@ -33,3 +33,6 @@ a few things I figured out by now are that I will be using the GPIO pins on my p
 some sensors wil be digital an some wil be analog. depending on the type the way to connect and use them will vary.
 
 The I2C gpio pins will be used to interface withe the analog sensors.
+
+I will be using a 8 Channel relay card for controlling power outlets
+I will be using a DS18B20 temperature sensor
